@@ -1,0 +1,6 @@
+Id;Name;Duration;CalcPrio;LastRun;LastResults;Verdict;Cycle
+1;BTPrestamos_v1.Simular_4;331;0;2021-08-30 18:49:42;[1, 1, 1, 1, 1, 1, 1, 1, 1];1;14
+2;BTPrestamos_v1.Simular_2;354;0;2021-08-30 18:49:42;[1, 1, 1, 1, 1, 1, 1, 1, 1];1;14
+3;BTPrestamos_v1.Simular_1;246;0;2021-08-30 18:49:43;[1, 1, 1, 1, 1, 1, 1, 1, 0];1;14
+4;BTPrestamos_v1.Simular_3;366;0;2021-08-30 18:49:43;[1, 1, 1, 1, 1, 1, 1, 1, 1];1;14
+5;BTPrestamos_v1.Simular_5;314;0;2021-08-30 18:49:44;[1, 1, 1, 1, 1, 1, 1, 1, 1];1;14

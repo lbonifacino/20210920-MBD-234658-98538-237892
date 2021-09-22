@@ -1,0 +1,4 @@
+Id;Name;Duration;CalcPrio;LastRun;LastResults;Verdict;Cycle
+1;BTPrestamos_v1.ObtenerDetalle_1;1241;0;2021-08-30 11:46:41;[1, 1, 1, 1, 1, 1, 1, 1, 1];1;13
+2;BTPrestamos_v1.ObtenerDetalle_2;340;0;2021-08-30 11:46:43;[1, 1, 1, 1, 1, 1, 1, 1, 1];1;13
+3;BTPrestamos_v1.ObtenerDetalle_3;497;0;2021-08-30 11:46:45;[1, 1, 1, 1, 1, 1, 1, 1, 1];1;13

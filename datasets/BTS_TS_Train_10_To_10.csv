@@ -1,0 +1,76 @@
+Id;Name;Duration;CalcPrio;LastRun;LastResults;Verdict;Cycle
+1;BTClientes_v1.Crear_4;362;0;2021-08-27 15:01:20;[1, 1, 1, 1, 1, 1, 1];1;10
+2;BTClientes_v1.ObtenerPerfil_3;474;0;2021-08-27 15:01:20;[1, 1, 1, 1, 0, 0, 1];1;10
+3;BTPrestamos_v1.ObtenerDetalle_3;514;0;2021-08-27 15:01:21;[1, 1, 1, 1, 1, 1, 1, 1];1;10
+4;BTPrestamos_v1.Simular_3;349;0;2021-08-27 15:01:22;[1, 1, 1, 1, 1, 1];1;10
+5;BTPrestamos_v1.Simular_1;344;0;2021-08-27 15:01:22;[1, 1, 1, 1, 1, 0];1;10
+6;BTPrestamos_v1.Simular_5;283;0;2021-08-27 15:01:23;[1, 1, 1, 1, 1, 1];1;10
+7;BTPrestamos_v1.Simular_2;1414;0;2021-08-27 15:01:24;[1, 1, 1, 1, 1, 1];1;10
+8;BTPrestamos_v1.Simular_4;333;0;2021-08-27 15:01:26;[1, 1, 1, 1, 1, 1];1;10
+9;BTPrestamos_v1.ObtenerDetalle_1;296;0;2021-08-27 15:01:26;[1, 1, 1, 1, 1, 1, 1, 1];1;10
+10;BTClientes_v1.ObtenerTarjetasDebito_3;241;0;2021-08-27 15:01:27;[0, 0, 0, 0, 0, 0, 0];0;10
+11;BTConfiguracionBantotal_v1.ObtenerCiudadesLocalidades_3;211;0;2021-08-27 15:01:27;[0, 0, 0, 0, 0, 0, 0];0;10
+12;BTConfiguracionBantotal_v1.ObtenerSucursales_3;238;0;2021-08-27 15:01:27;[0, 0, 0, 0, 0, 0, 0];0;10
+13;BTConfiguracionBantotal_v1.ObtenerEstadosProvinciasDepartamentos_3;204;0;2021-08-27 15:01:28;[0, 0, 0, 0, 0, 0, 0];0;10
+14;BTConfiguracionBantotal_v1.ObtenerSucursales_2;246;0;2021-08-27 15:01:28;[0, 0, 0, 0, 0, 0, 0];0;10
+15;BTClientes_v1.ObtenerCuentasAhorro_2;264;0;2021-08-27 15:01:29;[0, 0, 0, 0, 0, 0, 0];0;10
+16;BTClientes_v1.ObtenerPrestamos_3;294;0;2021-08-27 15:01:29;[0, 0, 0, 0, 0, 0, 0];0;10
+17;BTConfiguracionBantotal_v1.ObtenerBarriosColonias_1;224;0;2021-08-27 15:01:29;[0, 0, 0, 0, 0, 0, 0];0;10
+18;BTClientes_v1.ObtenerCuentasCorrientes_3;242;0;2021-08-27 15:01:30;[0, 0, 0, 0, 0, 0, 0];0;10
+19;BTClientes_v1.ObtenerPlazosFijos_1;225;0;2021-08-27 15:01:30;[0, 0, 0, 0, 0, 0, 0];0;10
+20;BTClientes_v1.ObtenerCuentasAhorro_1;219;0;2021-08-27 15:01:31;[0, 0, 0, 0, 0, 0, 0];0;10
+21;BTConfiguracionBantotal_v1.ObtenerMonedas_3;209;0;2021-08-27 15:01:31;[0, 0, 0, 0, 0, 0, 0];0;10
+22;BTClientes_v1.ObtenerClasificacionesInternas_2;210;0;2021-08-27 15:01:31;[0, 0, 0, 0, 0, 0, 0];0;10
+23;BTClientes_v1.ValidarExistencia_1;237;0;2021-08-27 15:01:32;[0, 0, 0, 0, 0, 0, 0];0;10
+24;BTConfiguracionBantotal_v1.ObtenerBancos_3;250;0;2021-08-27 15:01:32;[0, 0, 0, 0, 0, 0, 0];0;10
+25;BTConfiguracionBantotal_v1.ObtenerMonedas_2;217;0;2021-08-27 15:01:33;[0, 0, 0, 0, 0, 0, 0];0;10
+26;BTClientes_v1.ValidarExistencia_2;231;0;2021-08-27 15:01:33;[0, 0, 0, 0, 0, 0, 0];0;10
+27;BTClientes_v1.ObtenerRiesgoCredito_3;288;0;2021-08-27 15:01:33;[0, 0, 0, 0, 0, 0, 0];0;10
+28;BTClientes_v1.ObtenerSectores_3;268;0;2021-08-27 15:01:34;[0, 0, 0, 0, 0, 0, 0];0;10
+29;BTPrestamos_v1.ObtenerDetalle_2;397;0;2021-08-27 15:01:34;[1, 1, 1, 1, 1, 1, 1, 1];1;10
+30;BTClientes_v1.ObtenerClasificacionesInternas_1;269;0;2021-08-27 15:01:35;[0, 0, 0, 0, 0, 0, 0];0;10
+31;BTConfiguracionBantotal_v1.ObtenerEjecutivos_3;242;0;2021-08-27 15:01:35;[0, 0, 0, 0, 0, 0, 0];0;10
+32;BTClientes_v1.ObtenerPerfil_1;277;0;2021-08-27 15:01:36;[0, 0, 0, 0, 0, 0, 0];0;10
+33;BTClientes_v1.ObtenerPlazosFijos_2;281;0;2021-08-27 15:01:36;[0, 0, 0, 0, 0, 0, 0];0;10
+34;BTConfiguracionBantotal_v1.ObtenerBancos_2;277;0;2021-08-27 15:01:37;[0, 0, 0, 0, 0, 0, 0];0;10
+35;BTClientes_v1.ObtenerRiesgoCredito_1;331;0;2021-08-27 15:01:37;[0, 0, 0, 0, 0, 0, 0];0;10
+36;BTClientes_v1.Crear_2;271;0;2021-08-27 15:01:38;[0, 0, 0, 0, 1, 1, 1];0;10
+37;BTConfiguracionBantotal_v1.ObtenerEstadosProvinciasDepartamentos_1;236;0;2021-08-27 15:01:38;[0, 0, 0, 0, 0, 0, 0];0;10
+38;BTConfiguracionBantotal_v1.ObtenerBancos_1;232;0;2021-08-27 15:01:39;[0, 0, 0, 0, 0, 0, 0];0;10
+39;BTClientes_v1.ObtenerIdentificadorUnico_2;225;0;2021-08-27 15:01:39;[0, 0, 0, 0, 0, 0, 0];0;10
+40;BTClientes_v1.ObtenerCuentasAhorro_3;229;0;2021-08-27 15:01:39;[0, 0, 0, 0, 0, 0, 0];0;10
+41;BTClientes_v1.ObtenerCuentasCorrientes_1;227;0;2021-08-27 15:01:40;[0, 0, 0, 0, 0, 0, 0];0;10
+42;BTClientes_v1.ObtenerPerfil_2;322;0;2021-08-27 15:01:40;[0, 0, 0, 0, 0, 0, 0];0;10
+43;BTConfiguracionBantotal_v1.ObtenerMonedas_1;204;0;2021-08-27 15:01:41;[0, 0, 0, 0, 0, 0, 0];0;10
+44;BTClientes_v1.ValidarExistencia_3;186;0;2021-08-27 15:01:41;[0, 0, 0, 0, 0, 0, 0];0;10
+45;BTConfiguracionBantotal_v1.ObtenerEjecutivos_1;222;0;2021-08-27 15:01:41;[0, 0, 0, 0, 0, 0, 0];0;10
+46;BTClientes_v1.ObtenerClasificacionesInternas_3;235;0;2021-08-27 15:01:42;[0, 0, 0, 0, 0, 0, 0];0;10
+47;BTClientes_v1.ObtenerResumenProductos_2;369;0;2021-08-27 15:01:42;[0, 0, 0, 0, 0, 0, 0];0;10
+48;BTClientes_v1.ObtenerTarjetasDebito_1;246;0;2021-08-27 15:01:43;[0, 0, 0, 0, 0, 0, 0];0;10
+49;BTClientes_v1.ObtenerTarjetasDebito_2;343;0;2021-08-27 15:01:43;[0, 0, 0, 0, 0, 0, 0];0;10
+50;BTClientes_v1.ObtenerPrestamos_1;235;0;2021-08-27 15:01:44;[0, 0, 0, 0, 0, 0, 0];0;10
+51;BTClientes_v1.ObtenerIdentificadorUnico_3;204;0;2021-08-27 15:01:44;[0, 0, 0, 0, 0, 0, 0];0;10
+52;BTClientes_v1.ObtenerPlazosFijos_3;227;0;2021-08-27 15:01:44;[0, 0, 0, 0, 0, 0, 0];0;10
+53;BTConfiguracionBantotal_v1.ObtenerCiudadesLocalidades_2;241;0;2021-08-27 15:01:45;[0, 0, 0, 0, 0, 0, 0];0;10
+54;BTClientes_v1.Crear_1;475;0;2021-08-27 15:01:45;[0, 0, 0, 0, 1, 1, 1];0;10
+55;BTConfiguracionBantotal_v1.ObtenerCiudadesLocalidades_1;221;0;2021-08-27 15:01:46;[0, 0, 0, 0, 0, 0, 0];0;10
+56;BTConfiguracionBantotal_v1.ObtenerBarriosColonias_2;255;0;2021-08-27 15:01:46;[0, 0, 0, 0, 0, 0, 0];0;10
+57;BTConfiguracionBantotal_v1.ObtenerSucursales_1;186;0;2021-08-27 15:01:47;[0, 0, 0, 0, 0, 0];0;10
+58;BTConfiguracionBantotal_v1.ObtenerEjecutivos_2;174;0;2021-08-27 15:01:47;[0, 0, 0, 0, 0, 0, 0];0;10
+59;BTConfiguracionBantotal_v1.ObtenerEstadosProvinciasDepartamentos_2;210;0;2021-08-27 15:01:47;[0, 0, 0, 0, 0, 0, 0];0;10
+60;BTConfiguracionBantotal_v1.ObtenerActividades_2;402;0;2021-08-27 15:01:48;[0, 0, 0, 0, 0, 0, 0];0;10
+61;BTClientes_v1.Crear_3;317;0;2021-08-27 15:01:48;[0, 0, 1, 1, 1, 1, 1];0;10
+62;BTConfiguracionBantotal_v1.ObtenerActividades_1;405;0;2021-08-27 15:01:49;[0, 0, 0, 0, 0, 0, 0];0;10
+63;BTClientes_v1.ObtenerResumenProductos_3;411;0;2021-08-27 15:01:49;[0, 0, 0, 0, 0, 0, 0];0;10
+64;BTClientes_v1.ObtenerResumenProductos_1;271;0;2021-08-27 15:01:50;[0, 0, 0, 0, 0, 0, 0];0;10
+65;BTConfiguracionBantotal_v1.ObtenerActividades_3;483;0;2021-08-27 15:01:50;[0, 0, 0, 0, 0, 0, 0];0;10
+66;BTConfiguracionBantotal_v1.ObtenerBarriosColonias_3;294;0;2021-08-27 15:01:51;[0, 0, 0, 0, 0, 0, 0];0;10
+67;BTClientes_v1.ObtenerCuentasCorrientes_2;303;0;2021-08-27 15:01:51;[0, 0, 0, 0, 0, 0, 0];0;10
+68;BTClientes_v1.ObtenerSectores_1;230;0;2021-08-27 15:01:52;[0, 0, 0, 0, 0, 0, 0];0;10
+69;BTClientes_v1.ObtenerIdentificadorUnico_1;200;0;2021-08-27 15:01:52;[0, 0, 0, 0, 0, 0, 0];0;10
+70;BTConfiguracionBantotal_v1.ObtenerPaises_2;346;0;2021-08-27 15:01:53;[0, 0, 0, 0, 0, 0];0;10
+71;BTConfiguracionBantotal_v1.ObtenerPaises_3;306;0;2021-08-27 15:01:53;[0, 0, 0, 0, 0, 0];0;10
+72;BTClientes_v1.ObtenerPrestamos_2;233;0;2021-08-27 15:01:53;[0, 0, 0, 0, 0, 0, 0];0;10
+73;BTClientes_v1.ObtenerRiesgoCredito_2;222;0;2021-08-27 15:01:54;[0, 0, 0, 0, 0, 0, 0];0;10
+74;BTClientes_v1.ObtenerSectores_2;182;0;2021-08-27 15:01:54;[0, 0, 0, 0, 0, 0, 0];0;10
+75;BTConfiguracionBantotal_v1.ObtenerPaises_1;329;0;2021-08-27 15:01:55;[0, 0, 0, 0, 0, 0, 0];0;10
